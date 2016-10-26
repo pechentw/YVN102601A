@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">YVN102601A</string>
+    <string-array name="fruits">
+        <item>蘋果</item>
+        <item>香蕉</item>
+        <item>檸檬</item>
+        <item>番茄</item>
+        <item>柳丁</item>
+    </string-array>
+</resources>
